@@ -4,7 +4,22 @@
     "repositoryName": "70m4.github.io",
     "branch": "master"
   },
+  "site": {
+    "title":"70m4",
+    "url":"https://70m4.github.io"
+    
+  },
+  "socialnetwork":{
+    "email":"emile@vauge.com",
+    "twitter":"",
+    "googleplus":"",
+    "linkedin":"",
+    "facebook":"",
+    "github":"https://github.com/70m4"
+    
+  },
   "theme": {
     "name": "Casper"
   }
 }
+
