@@ -29,13 +29,13 @@
     "stackoverflow": ""
   },
   "theme": {
-    "name": "ghostium",
+    "name": "casper",
     "url": "//70m4.github.io/themes/Saga"
   },
   "urls": {
     "site": "https://70m4.github.io",
     "hubpress": "https://70m4.github.io",
-    "theme": "//70m4.github.io/themes/roon",
+    "theme": "//70m4.github.io/themes/ghostium",
     "images": "https://70m4.github.io/images"
   },
   "initialisationConfigComponent": {
