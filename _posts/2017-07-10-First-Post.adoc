@@ -1,5 +1,5 @@
 = First Post
-:hp-tags:jave, cpp, jee, docker,
+:hp-tags: java, cpp, jee, docker,
 
 See you soon
 
