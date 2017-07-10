@@ -1,6 +1,4 @@
 = First Post
-It will be a tech blog
-
 See you soon
 
 #jave #cpp #jee #docker
