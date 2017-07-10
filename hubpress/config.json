@@ -29,13 +29,13 @@
     "stackoverflow": ""
   },
   "theme": {
-    "name": "ichi",
+    "name": "roon",
     "url": "//70m4.github.io/themes/Saga"
   },
   "urls": {
     "site": "https://70m4.github.io",
     "hubpress": "https://70m4.github.io",
-    "theme": "//70m4.github.io/themes/saga",
+    "theme": "//70m4.github.io/themes/ichi",
     "images": "https://70m4.github.io/images"
   },
   "initialisationConfigComponent": {
