@@ -2,11 +2,19 @@
   "meta": {
     "username": "70m4",
     "repositoryName": "70m4.github.io",
-    "branch": "master"
+    "branch": "master",
+    "cname": ""
   },
   "site": {
     "title": "70m4",
-    "url": "https://70m4.github.io"
+    "url": "https://70m4.github.io",
+    "description": "",
+    "logo": "",
+    "cover": "",
+    "delay": "",
+    "postsPerPage": "",
+    "googleAnalytics": "",
+    "disqus": ""
   },
   "socialnetwork": {
     "email": "",
@@ -14,10 +22,14 @@
     "googleplus": "",
     "linkedin": "",
     "facebook": "",
-    "github": "https://github.com/70m4"
+    "github": "https://github.com/70m4",
+    "instagram": "",
+    "pinterest": "",
+    "flickr": "",
+    "stackoverflow": ""
   },
   "theme": {
-    "name": "saga",
+    "name": "ichi",
     "url": "//70m4.github.io/themes/Saga"
   },
   "urls": {
