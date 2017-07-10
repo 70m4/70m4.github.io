@@ -1,1 +1,39 @@
-{"meta":{"username":"70m4","repositoryName":"70m4.github.io","branch":"master"},"site":{"title":"70m4","url":"https://70m4.github.io"},"socialnetwork":{"email":"","twitter":"","googleplus":"","linkedin":"","facebook":"","github":"https://github.com/70m4"},"theme":{"name":"Saga","url":"//70m4.github.io/themes/Saga"}}
+{
+  "meta": {
+    "username": "70m4",
+    "repositoryName": "70m4.github.io",
+    "branch": "master"
+  },
+  "site": {
+    "title": "70m4",
+    "url": "https://70m4.github.io"
+  },
+  "socialnetwork": {
+    "email": "",
+    "twitter": "",
+    "googleplus": "",
+    "linkedin": "",
+    "facebook": "",
+    "github": "https://github.com/70m4"
+  },
+  "theme": {
+    "name": "saga",
+    "url": "//70m4.github.io/themes/Saga"
+  },
+  "urls": {
+    "site": "https://70m4.github.io",
+    "hubpress": "https://70m4.github.io",
+    "theme": "//70m4.github.io/themes/saga",
+    "images": "https://70m4.github.io/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ]
+  }
+}
